@@ -1,0 +1,99 @@
+cs1302-arcade:
+total 92
+-rw-r--r-- 1 ugrad  1548 Dec 10 15:15 ATTRIBUTION.md
+-rw-r--r-- 1 ugrad 19121 Nov 14 13:28 LICENSE
+-rw-r--r-- 1 ugrad   216 Nov 14 13:28 Makefile
+-rw-r--r-- 1 ugrad   292 Nov 22 14:58 NOTES.md
+-rw-r--r-- 1 ugrad  2091 Nov 14 13:28 pom.xml
+-rw-r--r-- 1 ugrad 36547 Nov 14 13:28 README.md
+-rw-r--r-- 1 ugrad     0 Dec 11 11:37 rec18091
+-rw-r--r-- 1 ugrad  7878 Dec 11 11:11 REFLECTION.md
+drwxr-xr-x 2 ugrad  4096 Nov 25 16:21 resources
+drwxr-xr-x 3 ugrad  4096 Nov 14 13:28 src
+drwxr-xr-x 5 ugrad  4096 Dec 11 10:55 target
+
+cs1302-arcade/resources:
+total 264
+-rw-r--r-- 1 ugrad  97002 Nov 23 15:32 blackwood.jpg
+-rw-r--r-- 1 ugrad   7205 Nov 25 16:21 holewood.jpg
+-rw-r--r-- 1 ugrad   5067 Nov 22 18:17 mancala.jpg
+-rw-r--r-- 1 ugrad  10438 Nov 22 18:17 tetris.png
+-rw-r--r-- 1 ugrad 139416 Nov 23 15:32 woodboard.jpg
+
+cs1302-arcade/src:
+total 4
+drwxr-xr-x 3 ugrad 4096 Nov 14 13:28 main
+
+cs1302-arcade/src/main:
+total 4
+drwxr-xr-x 3 ugrad 4096 Nov 14 13:28 java
+
+cs1302-arcade/src/main/java:
+total 4
+drwxr-xr-x 3 ugrad 4096 Nov 14 13:28 cs1302
+
+cs1302-arcade/src/main/java/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Dec 11 11:21 arcade
+
+cs1302-arcade/src/main/java/cs1302/arcade:
+total 68
+-rw-r--r-- 1 ugrad 25738 Dec 11 11:04 ArcadeApp.java
+-rw-r--r-- 1 ugrad  3263 Dec 11 11:21 ArcadeCopy.java
+-rw-r--r-- 1 ugrad   784 Nov 14 13:28 ArcadeDriver.java
+-rw-r--r-- 1 ugrad  3511 Dec 10 21:20 Hole.java
+-rw-r--r-- 1 ugrad 13526 Dec 10 21:20 Mancala.java
+-rw-r--r-- 1 ugrad   761 Dec 10 21:20 Marble.java
+-rw-r--r-- 1 ugrad  6170 Dec 11 10:15 Tetris.java
+
+cs1302-arcade/target:
+total 12
+drwxr-xr-x 3 ugrad 4096 Dec 11 10:55 classes
+drwxr-xr-x 3 ugrad 4096 Dec 11 10:55 generated-sources
+drwxr-xr-x 3 ugrad 4096 Dec 11 10:55 maven-status
+
+cs1302-arcade/target/classes:
+total 4
+drwxr-xr-x 3 ugrad 4096 Dec 11 10:55 cs1302
+
+cs1302-arcade/target/classes/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Dec 11 11:26 arcade
+
+cs1302-arcade/target/classes/cs1302/arcade:
+total 64
+-rw-r--r-- 1 ugrad  1015 Dec 11 11:26 ArcadeApp$1.class
+-rw-r--r-- 1 ugrad   765 Dec 11 11:26 ArcadeApp$2.class
+-rw-r--r-- 1 ugrad 18407 Dec 11 11:26 ArcadeApp.class
+-rw-r--r-- 1 ugrad   680 Dec 11 11:26 ArcadeCopy$1.class
+-rw-r--r-- 1 ugrad  3599 Dec 11 11:26 ArcadeCopy.class
+-rw-r--r-- 1 ugrad  1119 Dec 11 11:26 ArcadeDriver.class
+-rw-r--r-- 1 ugrad  2916 Dec 11 11:26 Hole.class
+-rw-r--r-- 1 ugrad 11477 Dec 11 11:26 Mancala.class
+-rw-r--r-- 1 ugrad   773 Dec 11 11:26 Marble.class
+-rw-r--r-- 1 ugrad  3415 Dec 11 11:26 Tetris.class
+
+cs1302-arcade/target/generated-sources:
+total 4
+drwxr-xr-x 2 ugrad 4096 Dec 11 10:55 annotations
+
+cs1302-arcade/target/generated-sources/annotations:
+total 0
+
+cs1302-arcade/target/maven-status:
+total 4
+drwxr-xr-x 3 ugrad 4096 Dec 11 10:55 maven-compiler-plugin
+
+cs1302-arcade/target/maven-status/maven-compiler-plugin:
+total 4
+drwxr-xr-x 3 ugrad 4096 Dec 11 10:55 compile
+
+cs1302-arcade/target/maven-status/maven-compiler-plugin/compile:
+total 4
+drwxr-xr-x 2 ugrad 4096 Dec 11 10:55 default-compile
+
+cs1302-arcade/target/maven-status/maven-compiler-plugin/compile/default-compile:
+total 8
+-rw-r--r-- 1 ugrad 298 Dec 11 11:26 createdFiles.lst
+-rw-r--r-- 1 ugrad 530 Dec 11 11:28 inputFiles.lst
+/home/ugrads/sharan/cs1302-arcade:/home/work/cs1302a
